@@ -10,6 +10,8 @@ using System.Windows.Forms;
 
 namespace Project
 {
+
+    // eiei
     public partial class Form1 : Form
     {
         public Form1()
@@ -49,6 +51,11 @@ namespace Project
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button11_Click(object sender, EventArgs e)
+        {
+            Console.WriteLine("eiei");
         }
     }
 }
