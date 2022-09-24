@@ -13,7 +13,7 @@ namespace Project
 
     // eiei
     //riri
-    //Origin
+    //Origin2
     public partial class Form1 : Form
     {
         public Form1()
