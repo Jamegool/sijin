@@ -13,6 +13,7 @@ namespace Project
 
     // eiei
     //riri
+    //Origin
     public partial class Form1 : Form
     {
         public Form1()
@@ -57,6 +58,7 @@ namespace Project
         private void button11_Click(object sender, EventArgs e)
         {
             Console.WriteLine("eiei");
+            Console.WriteLine("eiei2");
         }
     }
 }
